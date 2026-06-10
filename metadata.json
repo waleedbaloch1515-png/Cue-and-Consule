@@ -1,0 +1,6 @@
+{
+  "name": "Cue & Console",
+  "description": "A booking and showcase website for Cue & Console, a premium royal-themed snooker club featuring online reservations, live pricing calculations, and interactive visual galleries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
